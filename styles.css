@@ -1,5 +1,6 @@
 h1 {
   color: red;
+  height: 200;
   background-image: url("Screenshot 2025-03-31 182139.png"); /* Replace "background.img" with the actual path to your image */
   background-size: cover; /* Optional: Ensures the image covers the entire element */
   background-position: center; /* Optional: Centers the image */
